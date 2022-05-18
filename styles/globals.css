@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,
+
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.mybg{
+  background: radial-gradient(96.32% 571.83% at 98.4% 19.88%, #8FB3FF 0%, #9D6BE8 27.72%, #DE2778 54.29%, #B03DE2 100%)
+}
+.logoimg{
+  background: radial-gradient(96.32% 571.83% at 98.4% 19.88%,   #a6c6ec 0%, #75d2ee 27.72%, #be5fe7 100%)
+}
+.twobg{
+  background: radial-gradient(96.32% 571.83% at 98.4% 19.88%, #cfd5e0 0%, #9D6BE8 27.72%, #fa0573 54.29%, #B03DE2 100%)
+}
+.padding{
+padding: 10px 20px;
+}
+.blue{
+  background-color: rgb(15, 15, 87);
+  border: none;
+}
+.border{
+  border: 1px solid black;
+}
+.margin{
+  margin-left: 5rem ;
+}
+.textcolor{
+  color: #426666;
+}
+.textblue{
+  color: #B03DE2;
+}
+.textorange{
+  color: orange;
+}
+.textgray{
+  color: #DE2879;
+}
+.bgblue{
+  background-color: #231A36;
+}
